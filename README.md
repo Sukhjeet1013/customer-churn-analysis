@@ -8,6 +8,11 @@ This project analyzes customer churn behavior and builds predictive models to id
 
 Predict customer churn and identify key factors driving customer attrition to enable proactive retention strategies and reduce revenue loss.
 
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard_preview.png)
+
+👉 [Download Full Dashboard (PDF)](dashboard/churn_dashboard.pdf)
 ---
 
 ## 📁 Project Structure
