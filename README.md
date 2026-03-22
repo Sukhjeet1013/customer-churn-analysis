@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis & Prediction
 
-A comprehensive machine learning project analyzing customer churn behavior and building predictive models to identify at-risk customers. This project combines data science, feature engineering, and interactive visualization to deliver actionable business insights.
+This project analyzes customer churn behavior and builds predictive models to identify high-risk customers, enabling proactive retention strategies and reducing revenue loss.
 
 ---
 
@@ -8,16 +8,6 @@ A comprehensive machine learning project analyzing customer churn behavior and b
 
 Predict customer churn and identify key factors driving customer attrition to enable proactive retention strategies and reduce revenue loss.
 
-## 🚀 Project Highlights
-
-- Built an end-to-end churn prediction system using Machine Learning + Power BI
-- Identified key churn drivers such as inactivity, high balance, and age segments
-- Achieved ~86% ROC-AUC with ensemble models
-- Delivered actionable business insights to improve customer retention
-
-## 📊 Dashboard download:
-
-![Dashboard](dashboard/churn_dashboard.pdf)
 ---
 
 ## 📁 Project Structure
@@ -161,7 +151,7 @@ Power BI dashboard featuring:
 ### 1. Explore the Analysis
 ```bash
 # Open the Jupyter notebook
-jupyter notebook notebooks/churn_analysis_final.ipynb.ipynb
+jupyter notebook notebooks/churn_analysis_final.ipynb
 ```
 
 ### 2. View the Dashboard
@@ -186,9 +176,7 @@ jupyter notebook notebooks/churn_analysis_final.ipynb.ipynb
 
 ## 👤 Author
 
-**Sukhjeet Singh**
-
-💼 [www.linkedin.com/in/sukhjeet-singh-kaunsal-944573322(#)] 📧 [kaunsalsukhjeetsingh@gmail.com(#)]
+**Sukhjeet Singh Kaunsal**
 
 ---
 
