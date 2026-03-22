@@ -15,6 +15,9 @@ Predict customer churn and identify key factors driving customer attrition to en
 - Achieved ~86% ROC-AUC with ensemble models
 - Delivered actionable business insights to improve customer retention
 
+## 📊 Dashboard download:
+
+![Dashboard](dashboard/churn_dashboard.pdf)
 ---
 
 ## 📁 Project Structure
