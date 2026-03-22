@@ -8,6 +8,13 @@ A comprehensive machine learning project analyzing customer churn behavior and b
 
 Predict customer churn and identify key factors driving customer attrition to enable proactive retention strategies and reduce revenue loss.
 
+## 🚀 Project Highlights
+
+- Built an end-to-end churn prediction system using Machine Learning + Power BI
+- Identified key churn drivers such as inactivity, high balance, and age segments
+- Achieved ~86% ROC-AUC with ensemble models
+- Delivered actionable business insights to improve customer retention
+
 ---
 
 ## 📁 Project Structure
